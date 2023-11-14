@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html {
+  background: url(./background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+body {
+  font-family: Lato, sans-serif;
+  color: #CCC;
+  margin: 0px;
+  text-align: center;
+}
+input[type=text] {
+  width: 220px;
+  height: 24px;
+  border-radius: 5px;
+  text-align: center;
+}
+a {
+  color: #CCC;
+}
+.App {
+  background: #00000088;
+  padding: 5%;
+  border-radius: 10px;
+  max-width: 80%;
+  margin: 10% auto;
+}
+.App-button {
+  width: 220px;
+  height: 30px;
+  border: none;
+  border-radius: 15px;
+  background: #000;
+  background: -webkit-linear-gradient(#349bf5, #125748);
+  color: #CCC;
+  cursor: pointer;
+  margin: 5px;
+}
+.App div {
+  margin: 3% 0;
+}
+.App .small-text {
+  font-size: 10px;
+}
+.App .event-log {
+  background: #00000088;
+  border-radius: 5px;
+  padding: 5px;
+}
+.App .green {
+  color: #4F4;
+}
