@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a241f575.css",
-    "main.js": "/static/js/main.09c8b4b6.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/background.png": "/static/media/background.0526777431586486e397.png",
-    "index.html": "/index.html",
-    "main.a241f575.css.map": "/static/css/main.a241f575.css.map",
-    "main.09c8b4b6.js.map": "/static/js/main.09c8b4b6.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/Etherspot-Account-Abstraction/static/css/main.a241f575.css",
+    "main.js": "/Etherspot-Account-Abstraction/static/js/main.09c8b4b6.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Etherspot-Account-Abstraction/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/background.png": "/Etherspot-Account-Abstraction/static/media/background.0526777431586486e397.png",
+    "index.html": "/Etherspot-Account-Abstraction/index.html",
+    "main.a241f575.css.map": "/Etherspot-Account-Abstraction/static/css/main.a241f575.css.map",
+    "main.09c8b4b6.js.map": "/Etherspot-Account-Abstraction/static/js/main.09c8b4b6.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Etherspot-Account-Abstraction/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a241f575.css",
-    "static/js/main.09c8b4b6.js"
+    "/Etherspot-Account-Abstraction/static/css/main.a241f575.css",
+    "/Etherspot-Account-Abstraction/static/js/main.09c8b4b6.js"
   ]
 }
