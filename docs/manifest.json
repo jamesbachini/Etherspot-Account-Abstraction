@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Etherspot Example",
+  "name": "Etherspot Account Abstraction Example",
   "icons": [
     {
       "src": "favicon.ico",
